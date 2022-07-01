@@ -42,4 +42,4 @@ Kickstarting with Excel  Module one
 
 - What are some other possible tables and/or graphs that we could create?
 
-		I think looking at the duration of each would give us a better understanding of the funding that it recieved to be a success, and also how it was advertized.  Were there incentives to donate more to hit the goal?  What other events took place during that time period that could draw attention towards ot away from donating: The holdiday saeson, tax return season for example. Hello.
+		I think looking at the duration of each would give us a better understanding of the funding that it recieved to be a success, and also how it was advertized.  Were there incentives to donate more to hit the goal?  What other events took place during that time period that could draw attention towards ot away from donating: The holdiday saeson, tax return season for example.
